@@ -1,2 +1,4 @@
 # static
 static pages
+
+angular
